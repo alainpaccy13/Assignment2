@@ -13,6 +13,8 @@
 ![Alt text of the image, OPtional](assets/userishimwe.png)
 # Altering paccy1 and new User
 ![Alt text of the image, OPtional](assets/altering.png)
-#connecting new service with new user
-![Alt text of the image, OPtional](assets/adminpdb.png)
+
+# connecting new service with new user
+
+![Alt text of the image, OPtional](assets/paccy1.png)
 
