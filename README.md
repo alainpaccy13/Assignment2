@@ -10,7 +10,7 @@
   ![Alt text of the image, OPtional](assets/paccymounted2.png)
 
 # Show Path
-![Alt text of the image, OPtional](assets/userishimwe.png)
+![Alt text of the image, OPtional](assets/paccy1.png)
 # Altering paccy1 and new User
 ![Alt text of the image, OPtional](assets/altering.png)
 #connecting new service with new user
