@@ -14,5 +14,5 @@
 # Altering paccy1 and new User
 ![Alt text of the image, OPtional](assets/altering.png)
 #connecting new service with new uswer
-![Alt text of the image, OPtional](assets/ishimwewithservicenamepaccy1.png)
+![Alt text of the image, OPtional](assets/paccy1.png)
 
