@@ -7,4 +7,4 @@
   ![Alt text of the image, OPtional](assets/pluggableseed.png)
 
   # Mount paccy1
-       ![Alt text of the image, OPtional](assets/paccymounted2.png)
+  ![Alt text of the image, OPtional](assets/paccymounted2.png)
