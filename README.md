@@ -16,7 +16,7 @@
 
 # connecting pdb2024 with admin in oracle
 
-![Alt text of the image, OPtional](assets/adminpdb.png)
+![Alt text of the image, OPtional](assets/plsql.png)
 
 # Show con_name
 ![Alt text of the image, OPtional](assets/showconname.png)
