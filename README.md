@@ -26,5 +26,5 @@ and Displaying of all PDBs.
 # Show con_name
 ![Alt text of the image, OPtional](assets/showconname.png)
 # Creating Oracle Enterprise
-![Alt text of the image, OPtional](assets/showconname.png)
+![Alt text of the image, OPtional](assets/IMG-20241003-WA0025.jpg)
 # END!
