@@ -21,7 +21,8 @@ and Displaying of all PDBs.
 # connecting pdb2024 with admin in oracle
 
 ![Alt text of the image, OPtional](assets/plsql.png)
-
+# Delete pdb
+![Alt text of the image, OPtional](assets/SHOWPATHOFPDBs.png)
 # Show con_name
 ![Alt text of the image, OPtional](assets/showconname.png)
 
