@@ -28,5 +28,5 @@ and Displaying of all PDBs.
 # Creating Oracle Enterprise
 ![Alt text of the image, OPtional](assets/IMG-20241003-WA0025.jpg)
 ##  2
-![Alt text of the image, OPtional](assets/IMG-20241003-WA0025.jpg)
+![Alt text of the image, OPtional](assets/IMG-20241003-WA0026.jpg)
 # END!
