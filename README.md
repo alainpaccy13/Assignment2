@@ -14,7 +14,7 @@
 # Altering paccy1 and new User
 ![Alt text of the image, OPtional](assets/altering.png)
 
-# connecting new service with new user
+# connecting pdb2024 with admin in oracle
 
-![Alt text of the image, OPtional](assets/paccy1.png)
+![Alt text of the image, OPtional](assets/adminpdb.png)
 
