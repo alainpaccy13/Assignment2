@@ -1,4 +1,4 @@
-------TO CREATE PLUGGABLE DATABASE 
+------Create PDB using PDBSEED
 
 SQL> CREATE PLUGGABLE DATABASE paccy1
   2  ADMIN USER paccy IDENTIFIED BY 123
@@ -26,7 +26,7 @@ NORMAL
 
 PACCY1
 NEW
-----TO MOUNT NEW PLUGGABLE
+----PDB Status
 SQL>
 SQL> select name, open_mode from v$pdbs;
 
@@ -45,7 +45,7 @@ MOUNTED
 
 
 SQL>
-
+----
 
 SQL> SELECT NAME, CON_ID FROM v$active_services order by 1;
 
@@ -62,6 +62,8 @@ paccy1                                                                    4
 
 SQL>
 
+--------Display Current Container
+  
 SQL> ALTER PLUGGABLE DATABASE PACCY1 OPEN;
 
 Pluggable database altered.
@@ -87,6 +89,7 @@ READ WRITE
 PACCY1
 READ WRITE
 
+  --------Alter PACCY1 – Open & Save
 
 SQL>
 SQL> ALTER PLUGGABLE DATABASE PACCY1 OPEN;
@@ -100,6 +103,8 @@ SQL> ALTER PLUGGABLE DATABASE PACCY1 SAVE STATE;
 
 Pluggable database altered.
 
+-------Oracle Instance
+  
 SQL>
 SQL> SELECT instance_name FROM v$instance;
 
@@ -111,6 +116,9 @@ SQL>ALTER SESSION SET CONTAINER = PACCY1;
 
 Session altered.
 
+-------Switch to the PDB & Create User & Grant Privileges
+
+  
 SQL> CREATE USER ishimwe IDENTIFIED BY 123;
 
 User created.
@@ -118,6 +126,8 @@ User created.
 SQL> GRANT ALL PRIVILEGES TO ishimwe;
 
 Grant succeeded.
+  
+------Delete the pluggable databases HR and PDB4, follow these steps
 
 SQL>SQL> col name for a20;
 SQL> /
@@ -129,6 +139,9 @@ SQL> select name, open_mode from v$containers
 
 NAME                 OPEN_MODE
 -------------------- ----------
+CDB$ROOT             READ WRITE
+PDB$SEED             READ WRITE
+HR                   READ WRITE  
 PACCY1               READ WRITE
 
 SQL> SELECT directory_name, directory_path FROM dba_directories;
@@ -146,7 +159,7 @@ D:\ORACLE_21/cfgtoollogs
 DBMS_OPTIM_ADMINDIR
 D:\ORACLE_21/rdbms/admin
 
---cloning 
+--------cloning 
 
 SQL> col name for a20;
 SQL> select name, open_mode from v$containers
