@@ -22,7 +22,7 @@ and Displaying of all PDBs.
 
 ![Alt text of the image, OPtional](assets/plsql.png)
 # Delete pdb
-![Alt text of the image, OPtional](assets/SHOWPATHOFPDBs.png)
+![Alt text of the image, OPtional](assets/IMG-20241003-WA0020.jpg)
 # Show con_name
 ![Alt text of the image, OPtional](assets/showconname.png)
 
