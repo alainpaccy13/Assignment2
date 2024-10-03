@@ -1,4 +1,4 @@
-# Creating Oracle Enterprise Manager dashboard
+ Manager dashboard
 
 CREATING NEW PLUGGABLE USER
 and Displaying of all PDBs.
@@ -25,5 +25,6 @@ and Displaying of all PDBs.
 ![Alt text of the image, OPtional](assets/IMG-20241003-WA0020.jpg)
 # Show con_name
 ![Alt text of the image, OPtional](assets/showconname.png)
-
+# Creating Oracle Enterprise
+![Alt text of the image, OPtional](assets/showconname.png)
 # END!
