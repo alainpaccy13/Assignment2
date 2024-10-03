@@ -1,7 +1,6 @@
-# CREATING NEW PLUGGABLE USER
-
 # Creating Oracle Enterprise Manager dashboard
-# and display of all PDBs.
+CREATING NEW PLUGGABLE USER
+and display of all PDBs.
 
 # Image from Sql*plus
 ![Alt text of the image, OPtional](assets/SHOWPATHOFPDBs.png)
