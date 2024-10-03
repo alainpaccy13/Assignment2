@@ -8,3 +8,6 @@
 
   # Mount paccy1
   ![Alt text of the image, OPtional](assets/paccymounted2.png)
+
+# Show Path
+![Alt text of the image, OPtional](assets/userishimwe.png)
